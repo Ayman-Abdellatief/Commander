@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\Core\\Commander\\Commander.csproj": {}
+    "F:\\Projects\\core\\Commander\\Commander.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\Core\\Commander\\Commander.csproj": {
+    "F:\\Projects\\core\\Commander\\Commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\Core\\Commander\\Commander.csproj",
+        "projectUniqueName": "F:\\Projects\\core\\Commander\\Commander.csproj",
         "projectName": "Commander",
-        "projectPath": "F:\\Projects\\Core\\Commander\\Commander.csproj",
+        "projectPath": "F:\\Projects\\core\\Commander\\Commander.csproj",
         "packagesPath": "C:\\Users\\Ayman\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\Core\\Commander\\obj\\",
+        "outputPath": "F:\\Projects\\core\\Commander\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ayman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,22 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
