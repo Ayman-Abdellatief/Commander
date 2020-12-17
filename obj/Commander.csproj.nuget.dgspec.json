@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\core\\Commander\\Commander.csproj": {}
+    "F:\\Projects\\Core\\Commander\\Commander.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\core\\Commander\\Commander.csproj": {
+    "F:\\Projects\\Core\\Commander\\Commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\core\\Commander\\Commander.csproj",
+        "projectUniqueName": "F:\\Projects\\Core\\Commander\\Commander.csproj",
         "projectName": "Commander",
-        "projectPath": "F:\\Projects\\core\\Commander\\Commander.csproj",
+        "projectPath": "F:\\Projects\\Core\\Commander\\Commander.csproj",
         "packagesPath": "C:\\Users\\Ayman\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\core\\Commander\\obj\\",
+        "outputPath": "F:\\Projects\\Core\\Commander\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ayman\\AppData\\Roaming\\NuGet\\NuGet.Config",

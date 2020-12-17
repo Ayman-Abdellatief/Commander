@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t2F55pt8tBMioXtQyBhBefZ/52UYLXu52s8gIxZXceKmqR7iI6NMt4uIGr1M1cnenr0BkfMMr2+it8IBMPRGYQ==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\core\\Commander\\Commander.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ayman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Ayman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
