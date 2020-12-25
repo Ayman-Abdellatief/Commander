@@ -77,3 +77,5 @@ F:\Projects\Core\Commander\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.
 F:\Projects\Core\Commander\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
 F:\Projects\Core\Commander\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 F:\Projects\Core\Commander\obj\Debug\netcoreapp3.0\Commander.csproj.CopyComplete
+F:\Projects\Core\Commander\bin\Debug\netcoreapp3.0\AutoMapper.dll
+F:\Projects\Core\Commander\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
